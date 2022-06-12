@@ -10,4 +10,4 @@ Simulates the flow of events in an orphanage.
 
 # Extra notes
 This project was made entirely in Python.  I am still relatively new to python so don't judge.
-This project contains the 'colorama' module.  Remember to run the command 'py -m pip install colorama' otherwise the simulator will not work.
+This project contains the 'colorama' module.  Remember to run the commands 'py -m pip install colorama' and 'python3.10 -m pip install colorama' otherwise the simulator will not work.
